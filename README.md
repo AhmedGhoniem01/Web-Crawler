@@ -1,7 +1,6 @@
 ## Web Crawler mini-project using cheerio WebScrapping package
 
 
-# Run:    [Npm i] 
-  install any dependencies
+# Run    Npm install  => install any dependencies
   
   
